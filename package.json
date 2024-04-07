@@ -1,6 +1,10 @@
 {
   "dependencies": {
     "editorconfig": "^2.0.0",
+    "lodash": "^4.17.21",
     "typescript": "^5.4.3"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.0"
   }
 }
