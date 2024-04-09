@@ -6,7 +6,7 @@
     "outDir": "out",
     "sourceMap": true,
     "rootDir": "src",
-    "lib": ["ESNext"],
+    "lib": ["ESNext", "DOM"],
     "esModuleInterop": true
   }
 }
